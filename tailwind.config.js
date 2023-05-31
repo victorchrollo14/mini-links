@@ -24,6 +24,12 @@ export default {
         black: "#000000",
         white: "#ffffff",
       },
+      borderRadius: {
+        nd: "10px",
+      },
+    },
+    boxShadow: {
+      nd: "5px 7px 0px 1px white;",
     },
   },
   plugins: [],
