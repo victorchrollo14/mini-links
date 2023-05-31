@@ -8,8 +8,12 @@
   --white: #ffffff;
 }
 
-.app {
-  background-color: var(--dark-blue);
+#root{
+    min-height: 100vh;
+    background: var(--dark-blue);
+    display: flex;
+    justify-content: center;
+
 }
 
 @tailwind base;
