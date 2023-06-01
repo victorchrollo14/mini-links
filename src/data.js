@@ -1,6 +1,6 @@
 export const itemsList = [
     {
-      name: "Rock-Paper-Scissor",
+      name: "Rock Paper Scissor",
       githubLink: "https://github.com/victorchrollo14/Vanilla-Js-Projects",
       liveLink: "https://vanilla-js-projects-2u5o.vercel.app/",
     },
